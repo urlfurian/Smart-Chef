@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 **Projeto:** Smart-Chef
-**Problema que resolve:** Praticidade
+**Problema que resolve:** Impraticidade
 
 ## Integrantes
 | Nome | GitHub |
